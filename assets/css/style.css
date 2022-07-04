@@ -95,15 +95,3 @@
     color: rgb(124, 123, 123);
     margin: 20px 0;
 }
-
-footer {
-    padding: 24px;
-    background: linear-gradient(0deg, rgb(1, 2, 3), rgb(11, 22, 33));
-    text-align: center;
-}
-
-footer img {
-    width: 48px;
-    height: 100%;
-    margin: 0 20px;
-}
